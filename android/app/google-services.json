@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262222975011",
+    "project_id": "roshadiproject",
+    "storage_bucket": "roshadiproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262222975011:android:3af426631377496156e196",
+        "android_client_info": {
+          "package_name": "com.example.fidh_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1UQh-TYca1DLv_R9tPzH7Arv-7s2Law"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262222975011:android:879b3edd7409854456e196",
+        "android_client_info": {
+          "package_name": "com.example.fidh_ai_baru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1UQh-TYca1DLv_R9tPzH7Arv-7s2Law"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
